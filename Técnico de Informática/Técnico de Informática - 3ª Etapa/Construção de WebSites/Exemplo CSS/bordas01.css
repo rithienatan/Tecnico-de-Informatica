@@ -1,0 +1,15 @@
+﻿/* propriedades
+img{border-top-width:4pt;}
+img{border-bottom-width:3pt;}
+img{border-width:thin;}
+img{border-style:"groove";}
+img{border-right:4pt solid "green";}
+img{border-left: 4pt solid "yellow";}
+img{boder:4pt solid "yellow"; (border pode ser usado para todos)}
+p{borde-right-width:3pt;}
+b{border-left-width:3pt;}
+i{border-color:"red";}
+div{border-top:3pt solid "red";}
+u{border-bottom: 3pt solid "green"}
+} 
+*/

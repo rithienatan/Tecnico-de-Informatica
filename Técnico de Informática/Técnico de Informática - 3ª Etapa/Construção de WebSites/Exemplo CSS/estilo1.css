@@ -1,0 +1,17 @@
+﻿b {background-color: red;
+	color: white;
+	font-size: 14pt;}
+p {color: green;
+	font-style: italic;}
+
+a:link{ color:red;
+		text-decoration:none;
+		font-size:25pt;}
+		
+a:houver{background-color:pink;
+		 text-decoration:underline;
+		 font-size:25pt;}
+		 
+a:visited{color:red;
+		  text-decoration:none;
+		  font-size:25pt;}

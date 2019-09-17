@@ -1,0 +1,11 @@
+﻿body {color:green; 
+	font-style:italic;}
+/* propriedades
+body {background-color:"blue";
+	background-image:url("imagem.jpg");
+	background-repeat: (repeat;no-repeat;repeat-x;repeat-y;)
+	background-attachment: (scroll;fixed;)
+	background-position: (2%;top;bottom;left;center;)
+	background: (atalho para todas as propriedades)
+} 
+*/
